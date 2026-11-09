@@ -71,3 +71,21 @@ UMKM-Software-Testing/
 │   ├── screenshots/
 │   └── interview/
 └── .gitignore
+```
+
+## 👥 Anggota Kelompok
+
+| No. | Nama | NIM |
+|---|---|---|
+| 1. | Muhammad Mabi Palaka | 231011401691 |
+| 2. | Anggota 1 | 2310XXXXXXXX |
+| 3. | Anggota 2 | 2310XXXXXXXX |
+| 4. | Anggota 3 | 2310XXXXXXXX |
+
+---
+Mata Kuliah: Testing dan QA Perangkat Lunak
+Program Studi: Teknik Informatika – Semester 7
+Universitas: Universitas Pamulang
+Tahun Akademik: 2026
+
+Proyek ini dilaksanakan untuk keperluan akademik dan pembelajaran.
