@@ -83,9 +83,10 @@ UMKM-Software-Testing/
 | 4. | Anggota 3 | 2310XXXXXXXX |
 
 ---
-Mata Kuliah: Testing dan QA Perangkat Lunak
-Program Studi: Teknik Informatika – Semester 7
-Universitas: Universitas Pamulang
-Tahun Akademik: 2026
+
+**Mata Kuliah:** Testing dan QA Perangkat Lunak  
+**Program Studi:** Teknik Informatika – Semester 7  
+**Universitas:** Universitas Pamulang  
+**Tahun Akademik:** 2026
 
 Proyek ini dilaksanakan untuk keperluan akademik dan pembelajaran.
