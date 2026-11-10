@@ -78,7 +78,7 @@ UMKM-Software-Testing/
 | No. | Nama | NIM |
 |---|---|---|
 | 1. | Muhammad Mabi Palaka | 231011401691 |
-| 2. | Anggota 1 | 2310XXXXXXXX |
+| 2. | Anggota 1 | 2311XXXXXXXX |
 | 3. | Anggota 2 | 2310XXXXXXXX |
 | 4. | Anggota 3 | 2310XXXXXXXX |
 
